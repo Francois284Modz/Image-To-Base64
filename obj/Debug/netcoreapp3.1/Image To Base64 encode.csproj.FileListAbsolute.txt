@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\Image To Base64 encode.exe
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\Image To Base64 encode.deps.json
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\Image To Base64 encode.runtimeconfig.json
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\Image To Base64 encode.runtimeconfig.dev.json
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\Image To Base64 encode.dll
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\Image To Base64 encode.pdb
+C:\Users\Home\source\repos\Image To Base64 encode\obj\Debug\netcoreapp3.1\Image To Base64 encode.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Image To Base64 encode\obj\Debug\netcoreapp3.1\Image To Base64 encode.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Image To Base64 encode\obj\Debug\netcoreapp3.1\Image To Base64 encode.AssemblyInfo.cs
+C:\Users\Home\source\repos\Image To Base64 encode\obj\Debug\netcoreapp3.1\Image To Base64 encode.dll
+C:\Users\Home\source\repos\Image To Base64 encode\obj\Debug\netcoreapp3.1\Image To Base64 encode.pdb
+C:\Users\Home\source\repos\Image To Base64 encode\obj\Debug\netcoreapp3.1\Image To Base64 encode.genruntimeconfig.cache
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Home\source\repos\Image To Base64 encode\bin\Debug\netcoreapp3.1\TextCopy.dll
+C:\Users\Home\source\repos\Image To Base64 encode\obj\Debug\netcoreapp3.1\Image To Base64 encode.csproj.CopyComplete
